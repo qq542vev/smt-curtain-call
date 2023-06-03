@@ -1,0 +1,25 @@
+General
+Complete name                            : youtube:O8dRFeU6N-s.251.webm
+Format                                   : WebM
+Format version                           : Version 4
+File size                                : 11.4 MiB
+Duration                                 : 12 min 46 s
+Overall bit rate                         : 125 kb/s
+Writing application                      : google/video-file
+Writing library                          : google/video-file
+
+Audio
+ID                                       : 1
+Format                                   : Opus
+Codec ID                                 : A_OPUS
+Duration                                 : 12 min 46 s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossy
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+

@@ -1,0 +1,32 @@
+General
+Complete name                            : facebook:10220661221266990.339631866985365a-1.m4a
+Format                                   : MPEG-4
+Format profile                           : Base Media
+Codec ID                                 : isom (isom/iso2/mp41)
+File size                                : 1.94 MiB
+Duration                                 : 4 min 10 s
+Overall bit rate mode                    : Constant
+Overall bit rate                         : 64.8 kb/s
+Track name                               : 10220661221266990
+Writing application                      : Lavf59.27.100
+
+Audio
+ID                                       : 1
+Format                                   : AAC LC SBR
+Format/Info                              : Advanced Audio Codec Low Complexity with Spectral Band Replication
+Commercial name                          : HE-AAC
+Format settings                          : NBC
+Codec ID                                 : mp4a-40-5
+Duration                                 : 4 min 10 s
+Bit rate mode                            : Constant
+Bit rate                                 : 64.0 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 23.438 FPS (2048 SPF)
+Compression mode                         : Lossy
+Stream size                              : 1.91 MiB (99%)
+Default                                  : Yes
+Alternate group                          : 1
+
+

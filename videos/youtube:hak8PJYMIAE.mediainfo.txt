@@ -1,0 +1,35 @@
+General
+Complete name                            : youtube:hak8PJYMIAE
+Format                                   : WebM
+Format version                           : Version 4
+File size                                : 121 MiB
+Duration                                 : 4 min 25 s
+Overall bit rate                         : 3 818 kb/s
+Frame rate                               : 30.000 FPS
+Writing application                      : google/video-file
+Writing library                          : google/video-file
+FileExtension_Invalid                    : webm
+
+Video
+ID                                       : 1
+Format                                   : VP9
+Codec ID                                 : V_VP9
+Duration                                 : 4 min 25 s
+Bit rate                                 : 3 660 kb/s
+Width                                    : 1 080 pixels
+Height                                   : 1 920 pixels
+Display aspect ratio                     : 0.562
+Frame rate mode                          : Constant
+Frame rate                               : 30.000 FPS
+Color space                              : YUV
+Bits/(Pixel*Frame)                       : 0.059
+Stream size                              : 116 MiB (96%)
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+

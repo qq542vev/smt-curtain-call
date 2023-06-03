@@ -1,0 +1,46 @@
+General
+Complete name                            : facebook:10220661221266990
+Format                                   : MPEG-4
+Format profile                           : Base Media
+Codec ID                                 : iso5 (avc1/iso5/dsms/msix/dash)
+File size                                : 125 MiB
+Duration                                 : 4 min 9 s
+Overall bit rate                         : 4 192 kb/s
+Frame rate                               : 30.000 FPS
+Movie name                               : 537912337722318
+Writing application                      : Lavf58.20.100
+FileExtension_Invalid                    : braw mov mp4 m4v m4a m4b m4p m4r 3ga 3gpa 3gpp 3gp 3gpp2 3g2 k3g jpm jpx mqv ismv isma ismt f4a f4b f4v
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.1
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 4 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 4 min 9 s
+Bit rate                                 : 4 190 kb/s
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 30.000 FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.152
+Stream size                              : 125 MiB (100%)
+Writing library                          : x264 core 157
+Encoding settings                        : cabac=1 / ref=1 / deblock=1:0:0 / analyse=0x1:0x111 / me=hex / subme=2 / psy=0 / mixed_ref=0 / me_range=16 / chroma_me=1 / trellis=0 / 8x8dct=0 / cqm=0 / deadzone=21,11 / fast_pskip=1 / chroma_qp_offset=0 / threads=1 / lookahead_threads=1 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=3 / b_pyramid=2 / b_adapt=1 / b_bias=0 / direct=1 / weightb=1 / open_gop=0 / weightp=1 / keyint=150 / keyint_min=76 / scenecut=0 / intra_refresh=0 / rc_lookahead=10 / rc=crf / mbtree=1 / crf=23.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=7200 / vbv_bufsize=14400 / crf_max=0.0 / nal_hrd=none / filler=0 / ip_ratio=1.40 / aq=2:1.00
+Tagged date                              : 2023-05-12 12:27:22 UTC
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.601
+Matrix coefficients                      : BT.709
+Codec configuration box                  : avcC
+
+

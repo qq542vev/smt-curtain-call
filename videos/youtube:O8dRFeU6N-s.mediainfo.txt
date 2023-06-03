@@ -1,0 +1,35 @@
+General
+Complete name                            : youtube:O8dRFeU6N-s
+Format                                   : WebM
+Format version                           : Version 4
+File size                                : 1.60 GiB
+Duration                                 : 12 min 46 s
+Overall bit rate                         : 18.0 Mb/s
+Frame rate                               : 58.583 FPS
+Writing application                      : google/video-file
+Writing library                          : google/video-file
+FileExtension_Invalid                    : webm
+
+Video
+ID                                       : 1
+Format                                   : VP9
+Codec ID                                 : V_VP9
+Duration                                 : 12 min 46 s
+Bit rate                                 : 17.2 Mb/s
+Width                                    : 3 840 pixels
+Height                                   : 2 160 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 58.583 FPS
+Color space                              : YUV
+Bits/(Pixel*Frame)                       : 0.035
+Stream size                              : 1.54 GiB (96%)
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+

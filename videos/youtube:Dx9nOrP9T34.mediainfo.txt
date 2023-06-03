@@ -1,0 +1,44 @@
+General
+Complete name                            : youtube:Dx9nOrP9T34
+Format                                   : dash
+Codec ID                                 : dash (iso6/avc1/mp41)
+File size                                : 154 MiB
+Duration                                 : 30 min 9 s
+Overall bit rate                         : 712 kb/s
+Frame rate                               : 29.970 FPS
+Encoded date                             : 2022-12-20 07:37:58 UTC
+Tagged date                              : 2022-12-20 07:37:58 UTC
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : Main@L3.1
+Format settings                          : CABAC / 3 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 3 frames
+Codec ID                                 : avc1
+Codec ID/Info                            : Advanced Video Coding
+Duration                                 : 30 min 9 s
+Bit rate                                 : 709 kb/s
+Width                                    : 854 pixels
+Height                                   : 480 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 (30000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.058
+Stream size                              : 153 MiB (100%)
+Title                                    : ISO Media file produced by Google Inc.
+Encoded date                             : 2022-12-20 07:37:58 UTC
+Tagged date                              : 2022-12-20 07:37:58 UTC
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+Codec configuration box                  : avcC
+
+

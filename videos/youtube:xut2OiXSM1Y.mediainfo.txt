@@ -1,0 +1,26 @@
+General
+Complete name                            : youtube:xut2OiXSM1Y
+Format                                   : WebM
+Format version                           : Version 4
+File size                                : 27.8 MiB
+Frame rate                               : 29.970 FPS
+Writing application                      : google/video-file
+Writing library                          : google/video-file
+IsTruncated                              : Yes
+http://youtube.com/streaming/otf/duratio : Segment-Count: 61 / Segment-Durations-Ms: 5339,5338,5339(r=1),5338,5339(r=1),5338,5339(r=1),5338,5339(r=1),5338,5339(r=1),5338,5339(r=1),5338,5339(r=1),5338,5339(r=1),5338,5339(r=1),5338,5339(r=1),5338,5339(r=1),5338,5339(r=1),5338,5339(r=1),5338,5339(r=1),5338,5339(r=1),5338,5339(r=1),5338,5339(r=1),5338,5339(r=1),5338,5339(r=1),5338,5339,4404, / 
+FileExtension_Invalid                    : webm
+
+Video
+ID                                       : 1
+Format                                   : VP9
+Codec ID                                 : V_VP9
+Width                                    : 854 pixels
+Height                                   : 480 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 (30000/1001) FPS
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+
