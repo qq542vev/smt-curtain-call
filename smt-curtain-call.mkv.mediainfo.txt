@@ -1,0 +1,538 @@
+General
+Unique ID                                : 19396283443609844028631640994474638035 (0xE97969B71A956FD93FCFC71CCAC3AD3)
+Complete name                            : smt-curtain-call.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 11.6 GiB
+Duration                                 : 4 min 29 s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 370 Mb/s
+Movie name                               : SHINING MOON TOKYO - Curtain call
+Writing application                      : Lavf59.27.100
+Writing library                          : Lavf59.27.100
+ErrorDetectionType                       : Per level 1
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High 4:4:4 Predictive@L5.1
+Format settings                          : CABAC / 16 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 16 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 4 min 29 s
+Width                                    : 2 000 pixels
+Height                                   : 1 120 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 60.000 FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Writing library                          : x264 core 164 r3098 7628a56
+Encoding settings                        : cabac=1 / ref=16 / deblock=1:-1:-1 / analyse=0x3:0x133 / me=esa / subme=9 / psy=0 / mixed_ref=1 / me_range=24 / chroma_me=1 / trellis=0 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=0 / chroma_qp_offset=0 / threads=6 / lookahead_threads=1 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=0 / weightp=2 / keyint=250 / keyint_min=25 / scenecut=40 / intra_refresh=0 / rc=cqp / mbtree=0 / qp=0
+Default                                  : No
+Forced                                   : No
+
+Audio #1
+ID                                       : 2
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Codec ID                                 : A_FLAC
+Duration                                 : 4 min 9 s
+Bit rate mode                            : Variable
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Bit depth                                : 24 bits
+Compression mode                         : Lossless
+Delay relative to video                  : 19 s 767 ms
+Title                                    : 1: 15.08.2019 ⭐ SHINING MOON TOKYO ⭐ Inauguration of the first Sailor Moon restaurant in the world ❤ | By Maria Laura
+Writing library                          : Lavc59.37.100 flac
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+Description                              : Source: https://www.facebook.com/marialaura.muciaccia/videos/10220661221266990/
+
+Audio #2
+ID                                       : 3
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Codec ID                                 : A_FLAC
+Duration                                 : 4 min 13 s
+Bit rate mode                            : Variable
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Bit depth                                : 24 bits
+Compression mode                         : Lossless
+Delay relative to video                  : 13 s 467 ms
+Title                                    : 2: 世界初！セーラームーンショーレストランSHINING MOON TOKYOの様子
+Writing library                          : Lavc59.37.100 flac
+Language                                 : Japanese
+Default                                  : No
+Forced                                   : No
+Description                              : Source: https://www.youtube.com/watch?v=xut2OiXSM1Y
+
+Audio #3
+ID                                       : 4
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Codec ID                                 : A_FLAC
+Duration                                 : 3 min 41 s
+Bit rate mode                            : Variable
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Bit depth                                : 24 bits
+Compression mode                         : Lossless
+Delay relative to video                  : 17 s 300 ms
+Title                                    : 3: 美少女戦士セーラームーン SHINING MOON TOKYO ショー (S席から)
+Writing library                          : Lavc59.37.100 flac
+Language                                 : Japanese
+Default                                  : No
+Forced                                   : No
+Description                              : Source: https://www.youtube.com/watch?v=Sqsq8K2MP6w
+
+Audio #4
+ID                                       : 5
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Codec ID                                 : A_FLAC
+Duration                                 : 4 min 14 s
+Bit rate mode                            : Variable
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Bit depth                                : 24 bits
+Compression mode                         : Lossless
+Delay relative to video                  : 9 s 633 ms
+Title                                    : 4: 「美少女戦士セーラームーン -SHINING MOON TOKYO-」 主題餐廳絕對值得到訪！❤️ 本段影 片為現場開放錄影時段，前面還有一場精彩主秀(不開放錄影)，無論舞蹈動作聲光特效都完 美融合，讓身為粉絲的我超級無敵感動🤩... | By 士豪
+Writing library                          : Lavc59.37.100 flac
+Language                                 : Japanese
+Default                                  : No
+Forced                                   : No
+Description                              : Source: https://www.facebook.com/630981723/videos/10156601920971724/
+
+Audio #5
+ID                                       : 6
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Codec ID                                 : A_FLAC
+Duration                                 : 3 min 37 s
+Bit rate mode                            : Variable
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Bit depth                                : 24 bits
+Compression mode                         : Lossless
+Delay relative to video                  : 25 s 833 ms
+Title                                    : 5: Sailor Moon Shining Moon Tokyo! | By Christine
+Writing library                          : Lavc59.37.100 flac
+Language                                 : Japanese
+Default                                  : No
+Forced                                   : No
+Description                              : Source: https://www.facebook.com/christine.king.16/videos/2506677842688685/
+
+Audio #6
+ID                                       : 7
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Codec ID                                 : A_FLAC
+Duration                                 : 3 min 50 s
+Bit rate mode                            : Variable
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Bit depth                                : 24 bits
+Compression mode                         : Lossless
+Delay relative to video                  : 867 ms
+Title                                    : 6: Shining Moon Tokyo - シャイニングムーン東京
+Writing library                          : Lavc59.37.100 flac
+Language                                 : Japanese
+Default                                  : No
+Forced                                   : No
+Description                              : Source: https://www.youtube.com/watch?v=tlR-nfVXpk0
+
+Audio #7
+ID                                       : 8
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Codec ID                                 : A_FLAC
+Duration                                 : 3 min 34 s
+Bit rate mode                            : Variable
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Bit depth                                : 24 bits
+Compression mode                         : Lossless
+Delay relative to video                  : 16 s 500 ms
+Title                                    : 7: Shining Moon Tokyo. We can only take pictures or videos on this part of the show Recorded on September 22, 2019 | By Melanie
+Writing library                          : Lavc59.37.100 flac
+Language                                 : Japanese
+Default                                  : No
+Forced                                   : No
+Description                              : Source: https://www.facebook.com/animelly/videos/2606064456082876/
+
+Audio #8
+ID                                       : 9
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Codec ID                                 : A_FLAC
+Duration                                 : 4 min 5 s
+Bit rate mode                            : Variable
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Bit depth                                : 24 bits
+Compression mode                         : Lossless
+Delay relative to video                  : 15 s 767 ms
+Title                                    : 8: Shining Moon Tokyo
+Writing library                          : Lavc59.37.100 flac
+Language                                 : Japanese
+Default                                  : No
+Forced                                   : No
+Description                              : Source: https://www.facebook.com/TrashHere1/videos/485627745358132/
+
+Audio #9
+ID                                       : 10
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Codec ID                                 : A_FLAC
+Duration                                 : 4 min 17 s
+Bit rate mode                            : Variable
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Bit depth                                : 24 bits
+Compression mode                         : Lossless
+Delay relative to video                  : 7 s 233 ms
+Title                                    : 9: 2019 Shining Moon Tokyo - Sailor Moon Dinner Show in Japan
+Writing library                          : Lavc59.37.100 flac
+Language                                 : Japanese
+Default                                  : No
+Forced                                   : No
+Description                              : Source: https://www.youtube.com/watch?v=1ngDoWUh83M
+
+Audio #10
+ID                                       : 11
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Codec ID                                 : A_FLAC
+Duration                                 : 3 min 54 s
+Bit rate mode                            : Variable
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Bit depth                                : 24 bits
+Compression mode                         : Lossless
+Delay relative to video                  : 400 ms
+Title                                    : 10: SailorMoon Shining Moon fancam BEST VIEW
+Writing library                          : Lavc59.37.100 flac
+Language                                 : Japanese
+Default                                  : No
+Forced                                   : No
+Description                              : Source: https://www.youtube.com/watch?v=GpqF5Ja7-Zs
+
+Audio #11
+ID                                       : 12
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Codec ID                                 : A_FLAC
+Duration                                 : 4 min 13 s
+Bit rate mode                            : Variable
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Bit depth                                : 24 bits
+Compression mode                         : Lossless
+Delay relative to video                  : 2 s 967 ms
+Title                                    : 11: Shining Moon Tokyo 2019
+Writing library                          : Lavc59.37.100 flac
+Language                                 : Japanese
+Default                                  : No
+Forced                                   : No
+Description                              : Source: https://www.youtube.com/watch?v=NH-WA0oYYE8
+
+Audio #12
+ID                                       : 13
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Codec ID                                 : A_FLAC
+Duration                                 : 3 min 43 s
+Bit rate mode                            : Variable
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Bit depth                                : 24 bits
+Compression mode                         : Lossless
+Delay relative to video                  : 10 s 333 ms
+Title                                    : 12: Sailor Moon Show Restaurant SHINING MOON Tokyo | JAPAN | JVlog
+Writing library                          : Lavc59.37.100 flac
+Language                                 : Japanese
+Default                                  : No
+Forced                                   : No
+Description                              : Source: https://www.youtube.com/watch?v=x93sT47C-lk
+
+Audio #13
+ID                                       : 14
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Codec ID                                 : A_FLAC
+Duration                                 : 3 min 55 s
+Bit rate mode                            : Variable
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Bit depth                                : 24 bits
+Compression mode                         : Lossless
+Delay relative to video                  : 24 s 800 ms
+Title                                    : 13: Panchi In Tokyo: Day 04
+Writing library                          : Lavc59.37.100 flac
+Language                                 : Japanese
+Default                                  : No
+Forced                                   : No
+Description                              : Source: https://www.youtube.com/watch?v=jh8zryzsZzs
+
+Audio #14
+ID                                       : 15
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Codec ID                                 : A_FLAC
+Duration                                 : 4 min 20 s
+Bit rate mode                            : Variable
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Bit depth                                : 24 bits
+Compression mode                         : Lossless
+Delay relative to video                  : 2 s 933 ms
+Title                                    : 14: Sailor Moon Restaurant Tokyo, Japan
+Writing library                          : Lavc59.37.100 flac
+Language                                 : Japanese
+Default                                  : No
+Forced                                   : No
+Description                              : Source: https://www.youtube.com/watch?v=-cfDnIaTQEY
+
+Audio #15
+ID                                       : 16
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Codec ID                                 : A_FLAC
+Duration                                 : 3 min 47 s
+Bit rate mode                            : Variable
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Bit depth                                : 24 bits
+Compression mode                         : Lossless
+Delay relative to video                  : 42 s 200 ms
+Title                                    : 15: Sailor Moon. Shinning Moon Tokyo Finale
+Writing library                          : Lavc59.37.100 flac
+Language                                 : Japanese
+Default                                  : No
+Forced                                   : No
+Description                              : Source: https://www.youtube.com/watch?v=-OQMhuKCTCI
+
+Audio #16
+ID                                       : 17
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Codec ID                                 : A_FLAC
+Duration                                 : 3 min 48 s
+Bit rate mode                            : Variable
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Bit depth                                : 24 bits
+Compression mode                         : Lossless
+Delay relative to video                  : 7 s 133 ms
+Title                                    : 16: 2020.02.06 美少女戦士セーラームーン -SHINING MOON TOKYO- 還蠻喜歡看日本的舞台劇之類的表演 | By Miha
+Writing library                          : Lavc59.37.100 flac
+Language                                 : Japanese
+Default                                  : No
+Forced                                   : No
+Description                              : Source: https://www.facebook.com/miha.wang/videos/2883711924983195/
+
+Audio #17
+ID                                       : 18
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Codec ID                                 : A_FLAC
+Duration                                 : 4 min 24 s
+Bit rate mode                            : Variable
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Bit depth                                : 24 bits
+Compression mode                         : Lossless
+Delay relative to video                  : 33 ms
+Title                                    : 17: Sailor Moon Show Tokyo💖🌙Shining Moon✨
+Writing library                          : Lavc59.37.100 flac
+Language                                 : Japanese
+Default                                  : No
+Forced                                   : No
+Description                              : Source: https://www.youtube.com/watch?v=O8dRFeU6N-s
+
+Audio #18
+ID                                       : 19
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Codec ID                                 : A_FLAC
+Duration                                 : 4 min 15 s
+Bit rate mode                            : Variable
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Bit depth                                : 24 bits
+Compression mode                         : Lossless
+Delay relative to video                  : 5 s 567 ms
+Title                                    : 18: セーラームーン・ショーレストラン「SHINING MOON TOKYO」潜入レポ☆ぽっちゃり系巨乳グラドル・桃奈りさこ・sailormoon・Show restaurant・Japanesegirl
+Writing library                          : Lavc59.37.100 flac
+Language                                 : Japanese
+Default                                  : No
+Forced                                   : No
+Description                              : Source: https://www.youtube.com/watch?v=Dx9nOrP9T34
+
+Audio #19
+ID                                       : 20
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Codec ID                                 : A_FLAC
+Duration                                 : 4 min 9 s
+Bit rate mode                            : Variable
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Bit depth                                : 24 bits
+Compression mode                         : Lossless
+Delay relative to video                  : 13 s 467 ms
+Title                                    : 19: 美少女戦士セーラームーンPretty Guardian Sailor Moon Part.1
+Writing library                          : Lavc59.37.100 flac
+Language                                 : Japanese
+Default                                  : No
+Forced                                   : No
+Description                              : Source: https://www.youtube.com/watch?v=j-SI6uDZSxk
+
+Audio #20
+ID                                       : 21
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Codec ID                                 : A_FLAC
+Duration                                 : 4 min 23 s
+Bit rate mode                            : Variable
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Bit depth                                : 24 bits
+Compression mode                         : Lossless
+Title                                    : 20: SHINING MOON TOKYO ショータイム (SHOW TIME)
+Writing library                          : Lavc59.37.100 flac
+Language                                 : Japanese
+Default                                  : No
+Forced                                   : No
+Description                              : Source: https://www.youtube.com/watch?v=1R2DV4xDpGc
+
+Audio #21
+ID                                       : 22
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Codec ID                                 : A_FLAC
+Duration                                 : 4 min 25 s
+Bit rate mode                            : Variable
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Bit depth                                : 24 bits
+Compression mode                         : Lossless
+Delay relative to video                  : 2 s 500 ms
+Title                                    : 21: SAILOR MOON SHINING MOON TOKYO
+Writing library                          : Lavc59.37.100 flac
+Language                                 : Japanese
+Default                                  : No
+Forced                                   : No
+Description                              : Source: https://www.youtube.com/watch?v=hak8PJYMIAE
+
+Audio #22
+ID                                       : 23
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Codec ID                                 : A_FLAC
+Duration                                 : 4 min 15 s
+Bit rate mode                            : Variable
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Bit depth                                : 24 bits
+Compression mode                         : Lossless
+Delay relative to video                  : 8 s 367 ms
+Title                                    : 22: Sailor moon café Tokyo noviembre 2019
+Writing library                          : Lavc59.37.100 flac
+Language                                 : Japanese
+Default                                  : No
+Forced                                   : No
+Description                              : Source: https://www.youtube.com/watch?v=xkfu_L250sw
+
+Audio #23
+ID                                       : 24
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Codec ID                                 : A_FLAC
+Duration                                 : 4 min 6 s
+Bit rate mode                            : Variable
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Bit depth                                : 24 bits
+Compression mode                         : Lossless
+Delay relative to video                  : 12 s 33 ms
+Title                                    : 23: Shining Moon Tokyo
+Writing library                          : Lavc59.37.100 flac
+Language                                 : Japanese
+Default                                  : No
+Forced                                   : No
+Description                              : Source: https://www.facebook.com/NEProject/videos/323030685384918/
+
+Audio #24
+ID                                       : 25
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Codec ID                                 : A_FLAC
+Duration                                 : 3 min 49 s
+Bit rate mode                            : Variable
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Bit depth                                : 24 bits
+Compression mode                         : Lossless
+Delay relative to video                  : 4 s 767 ms
+Title                                    : 24: Pretty Guardian Sailor Moon  SHINING MOON TOKYO dance
+Writing library                          : Lavc59.37.100 flac
+Language                                 : Japanese
+Default                                  : No
+Forced                                   : No
+Description                              : Source: https://www.youtube.com/watch?v=KQYQPlzMW4U
+
+Audio #25
+ID                                       : 26
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Codec ID                                 : A_FLAC
+Duration                                 : 4 min 14 s
+Bit rate mode                            : Variable
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Bit depth                                : 24 bits
+Compression mode                         : Lossless
+Delay relative to video                  : 2 s 533 ms
+Title                                    : 25: JAPAN TRAVEL VLOG 🇯🇵 | Tokyo Tower & Sailor Moon LIVE!
+Writing library                          : Lavc59.37.100 flac
+Language                                 : Japanese
+Default                                  : No
+Forced                                   : No
+Description                              : Source: https://www.youtube.com/watch?v=CYJl_v4yBus
+
+

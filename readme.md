@@ -57,4 +57,4 @@ SMT Curtain Call は[美少女戦士セーラームーン -SHINING MOON TOKYO-](
 
 [`make.sh`](make.sh) をダウンロードして、実行してください。動画共有サイトから動画と音声をダウンロードします。ダウンロードされた動画と音声はカレントディレクトリの `./vidoes`, `./audios` 内に保存されます。その後、動画の作成を開始します。動画の作成(主にエンコード)には非常に時間がかかります。
 
-作成された動画はカレントディレクトリ内に `curtain-call.mkv` として保存されます。作成された動画の構成は、Matroska Video + H.264 + FLAC(25トラック)です。詳細は MediaInfo の[出力結果](curtain-call.mkv.mediainfo.txt)を参照してください。
+作成された動画はカレントディレクトリ内に `curtain-call.mkv` として保存されます。作成された動画の構成は、Matroska Video + H.264 + FLAC(25トラック)です。詳細は MediaInfo の[出力結果](smt-curtain-call.mkv.mediainfo.txt)を参照してください。
