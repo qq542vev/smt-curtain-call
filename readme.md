@@ -23,7 +23,7 @@
 
 [![smt-curtain-call.jpg](images/thumbnails/smt-curtain-call.jpg)](images/smt-curtain-call.jpg)
 
-SMT Curtain Call は[美少女戦士セーラームーン -SHINING MOON TOKYO-](https://web.archive.org/web/20201101000745/https://sailormoon-shiningmoontokyo.com/)の来場様が撮影したカーテンコールの動画を、一覧表示した動画を作成する試みです。アドリブの微妙な変化やキャストの方の成長を楽しむ動画でもあります。
+SMT Curtain Call は[美少女戦士セーラームーン -SHINING MOON TOKYO-](https://web.archive.org/web/20201101000745/https://sailormoon-shiningmoontokyo.com/) の来場様が撮影したカーテンコールの動画を、一覧表示した動画を作成する試みです。アドリブの微妙な変化やキャストの方の成長を楽しむ動画でもあります。
 
 現状では以下の25個の動画内のカーテンコール部分を抜き出し、分割して一覧表示します。
 
