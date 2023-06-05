@@ -6,8 +6,8 @@
 
 		id - a2113fca-63dd-475b-8c65-a7d02aaaa477
 		author - <qq542vev at https://purl.org/meta/me/>
-		version - 1.0.1
-		date - 2023-06-04
+		version - 1.1.0
+		date - 2023-06-05
 		since - 2023-05-23
 		copyright - Copyright (C) 2023-2023 qq542vev. Some rights reserved.
 		license - <CC-BY at https://creativecommons.org/licenses/by/4.0/>
@@ -20,6 +20,8 @@
 -->
 
 # SMT Curtain Call
+
+[![smt-curtain-call.jpg](images/thumbnails/smt-curtain-call.jpg)](images/smt-curtain-call.jpg)
 
 SMT Curtain Call は[美少女戦士セーラームーン -SHINING MOON TOKYO-](https://web.archive.org/web/20201101000745/https://sailormoon-shiningmoontokyo.com/)の来場様が撮影したカーテンコールの動画を、一覧表示した動画を作成する試みです。アドリブの微妙な変化やキャストの方の成長を楽しむ動画でもあります。
 
